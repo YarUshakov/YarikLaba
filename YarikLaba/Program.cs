@@ -6,7 +6,11 @@ namespace YarikLaba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Yaroslav436!");
+            string name = "Yarik";
+            for (int i = 0; i < 5; i++)
+            {
+                Console.Writeline("Yaroslav");
         }
     }
 }
